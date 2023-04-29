@@ -1,0 +1,33 @@
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #c6eef3;
+}
+
+#project {
+  background-color: #c6eef3;
+}
+
+footer {
+  background-color: #c6eef3;
+}
+
+footer p {
+  text-align: center;
+  font-weight: bold;
+}
+
+footer p a {
+  text-decoration: none;
+}
+
+#home {
+  padding-top: 3rem;
+}
+
+.navbar-brand a {
+  font-weight: bold;
+}
+
+section {
+  padding-top: 5rem;
+}
